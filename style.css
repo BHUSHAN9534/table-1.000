@@ -1,0 +1,17 @@
+body{
+    border: 2px red solid;
+    width: 70%;
+}
+
+th,td {
+    border: 1px black solid;
+    width: 330px;
+}
+
+tr{
+    width: 70%;
+}
+
+.center {
+    text-align: center;
+}
